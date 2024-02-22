@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/OTUS_2.iml" filepath="$PROJECT_DIR$/.idea/OTUS_2.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonLessons.iml" filepath="$PROJECT_DIR$/.idea/PythonLessons.iml" />
+>>>>>>> a11653d (2024_02_22)
     </modules>
   </component>
 </project>
