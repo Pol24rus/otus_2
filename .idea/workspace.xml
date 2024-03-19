@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26cd0740-e1c8-44e5-90f4-f8da9b7f8505" name="Changes" comment="2024_02_22-3">
-      <change afterPath="$PROJECT_DIR$/hw_2_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="26cd0740-e1c8-44e5-90f4-f8da9b7f8505" name="Changes" comment="2024_03_19_work">
+      <change afterPath="$PROJECT_DIR$/TK_2_files.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +57,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1.executor": "Run",
+    "Python.TK_2_files.executor": "Run",
     "Python.break_continue.executor": "Run",
     "Python.files_2.executor": "Run",
     "Python.files_hw.executor": "Run",
@@ -74,8 +74,8 @@
     "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.hw_2_1">
-    <configuration name="break_continue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.TK_2_files">
+    <configuration name="TK_2_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLessons" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/break_continue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TK_2_files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TK_2_files" />
         <item itemvalue="Python.hw_2_1" />
         <item itemvalue="Python.hw_2" />
         <item itemvalue="Python.files_hw" />
         <item itemvalue="Python.files_2" />
-        <item itemvalue="Python.break_continue" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708590308948</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2024_03_19_work">
+      <option name="closed" value="true" />
+      <created>1710832370645</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710832370645</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,7 +283,8 @@
     <MESSAGE value="2024_02_22" />
     <MESSAGE value="2024_02_22-2" />
     <MESSAGE value="2024_02_22-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024_02_22-3" />
+    <MESSAGE value="2024_03_19_work" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024_03_19_work" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
