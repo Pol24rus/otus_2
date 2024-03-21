@@ -19,7 +19,7 @@ try:
     elif c == "*" or c == "у":
         result = int(a * b)
         res_2 = "умножение"
-    elif c == "-" :
+    elif c == "-":
         result = int(a - b)
         res_2 = "вычитание"
     elif c == "+" or c == "с":
