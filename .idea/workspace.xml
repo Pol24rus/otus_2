@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26cd0740-e1c8-44e5-90f4-f8da9b7f8505" name="Changes" comment="2024_03_19_work">
-      <change beforePath="$PROJECT_DIR$/.idea/OTUS_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OTUS_2.iml" afterDir="false" />
+    <list default="true" id="26cd0740-e1c8-44e5-90f4-f8da9b7f8505" name="Changes" comment="2024_03_21">
+      <change afterPath="$PROJECT_DIR$/person.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_2_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +30,6 @@
     &quot;assignee&quot;: &quot;Pol24rus&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="0efe8d3e-33e0-487f-b346-256a052c3a3e" />
-  </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -70,6 +65,7 @@
     "Python.hw_2.executor": "Run",
     "Python.hw_2_1.executor": "Run",
     "Python.input.executor": "Run",
+    "Python.person.executor": "Run",
     "Python.spisok.executor": "Run",
     "Python.variable.executor": "Run",
     "Python.while.executor": "Run",
@@ -78,10 +74,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/OTUS_2/OTUS_2",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.hw_2_1">
+  <component name="RunManager" selected="Python.person">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="OTUS_2" />
       <option name="ENV_FILES" value="" />
@@ -195,28 +191,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="OTUS_2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonLessons" />
       <option name="ENV_FILES" value="" />
@@ -239,21 +213,44 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="person" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OTUS_2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (OTUS_2)" />
+      <option name="WORKING_DIRECTORY" value="D:\OTUS_2\OTUS_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\OTUS_2\OTUS_2\person.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.hw_2_1" />
+      <item itemvalue="Python.person" />
       <item itemvalue="Python.hw_2" />
       <item itemvalue="Python.exception" />
       <item itemvalue="Python.fun" />
-      <item itemvalue="Python.input" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.person" />
         <item itemvalue="Python.hw_2_1" />
         <item itemvalue="Python.hw_2" />
         <item itemvalue="Python.fun" />
         <item itemvalue="Python.exception" />
-        <item itemvalue="Python.input" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710832370645</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2024_03_21">
+      <option name="closed" value="true" />
+      <created>1711033276463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711033276463</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -324,7 +329,8 @@
     <MESSAGE value="2024_02_22-2" />
     <MESSAGE value="2024_02_22-3" />
     <MESSAGE value="2024_03_19_work" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024_03_19_work" />
+    <MESSAGE value="2024_03_21" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024_03_21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
