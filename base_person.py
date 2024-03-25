@@ -32,6 +32,7 @@ class Warrior(Person):
         """Инициализируем атрибуты класса родителя"""
         super().__init__(name, age, height)
         self.rage = 100  # добавили характеристику ярость, кроме имеющихся рост вес и тд
+
     """Метод для вывода отдельной (новой) характеристики"""
 
     def get_rage(self):
@@ -45,13 +46,7 @@ class Warrior(Person):
         return description  # вариант как по другому вывести, без print выше
 
 
-warrior = Warrior("Konan", 32, 200)  # определили значения аттрибутов
-# warrior.update_weight(150)  # если хотим изменить вес, то надо ставить перед описанием
-warrior.description_person()  # вызываем метод родительского класса, например описания
-warrior.get_rage()
-print("Ну Самого Нового человека зовут: " + warrior.description_person())  # при использовании return
-
-man = Person("Alex", 30, 180)
-man.description_person()
-# man.update_weight(110)  # здесь задаем значение веса
-# man.get_weight()
+# man = Person("Alex", 30, 180)
+# man.description_person()
+# warrior = Warrior("Konan", 32, 200)  # определили значения аттрибутов
+# print("Ну Самого Нового человека зовут: " + warrior.description_person())  # при использовании return
