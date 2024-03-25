@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26cd0740-e1c8-44e5-90f4-f8da9b7f8505" name="Changes" comment="2024_03_19_work">
-      <change afterPath="$PROJECT_DIR$/TK_2_files.py" afterDir="false" />
+    <list default="true" id="26cd0740-e1c8-44e5-90f4-f8da9b7f8505" name="Changes" comment="2024_03_19_work2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,26 +53,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.executor": "Run",
-    "Python.TK_2_files.executor": "Run",
-    "Python.break_continue.executor": "Run",
-    "Python.files_2.executor": "Run",
-    "Python.files_hw.executor": "Run",
-    "Python.for.executor": "Run",
-    "Python.hw_2.executor": "Run",
-    "Python.hw_2_1.executor": "Run",
-    "Python.spisok.executor": "Run",
-    "Python.variable.executor": "Run",
-    "Python.while.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TK_2_files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.break_continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.files_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.files_hw.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spisok.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.TK_2_files">
     <configuration name="TK_2_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLessons" />
@@ -220,7 +219,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
@@ -265,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710832370645</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2024_03_19_work2">
+      <option name="closed" value="true" />
+      <created>1710844415655</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710844415655</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,7 +291,8 @@
     <MESSAGE value="2024_02_22-2" />
     <MESSAGE value="2024_02_22-3" />
     <MESSAGE value="2024_03_19_work" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024_03_19_work" />
+    <MESSAGE value="2024_03_19_work2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024_03_19_work2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
